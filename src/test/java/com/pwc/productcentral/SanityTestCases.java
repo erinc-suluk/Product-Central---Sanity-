@@ -354,7 +354,7 @@ public class SanityTestCases extends BasePage {
 	}
 	
 	
-	@Test (enabled=false)
+	@Test 
 	public void WEB_28() throws Exception{
 		Driver.getDriver().get(read1.getCellData("VALUE", 13));
 	    ExtentTest test = extent.createTest("Verify the doc categories will be based on Taxonomy document");
