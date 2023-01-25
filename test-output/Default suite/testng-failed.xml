@@ -10,8 +10,13 @@
           <include name="WEB_65"/>
 >>>>>>> refs/remotes/origin/master
           <include name="closingBrowser"/>
+<<<<<<< HEAD
           <include name="WEB_58"/>
+=======
+          <include name="WEB_70"/>
+>>>>>>> branch 'newBranch' of https://github.com/erinc-suluk/Product-Central---Sanity-.git
           <include name="setUp"/>
+<<<<<<< HEAD
 <<<<<<< HEAD
           <include name="WEB_30"/>
 =======
@@ -20,6 +25,8 @@
           <include name="WEB_46"/>
           <include name="WEB_68"/>
 >>>>>>> refs/remotes/origin/master
+=======
+>>>>>>> branch 'newBranch' of https://github.com/erinc-suluk/Product-Central---Sanity-.git
           <include name="initTest"/>
           <include name="closeTabs"/>
         </methods>
